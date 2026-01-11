@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Shubham Prajapati
 
-<!--
-**Shubham0821/Shubham0821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (2026)
+💻 Aspiring Full-Stack Developer (Frontend + Backend basics)
 
-Here are some ideas to get you started:
+🧠 Tech Stack:
+- Frontend: HTML, CSS, Tailwind, JavaScript, React
+- Backend: Node.js, Express, MongoDB
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+• AI Chat App (React + Gemini / API integration)  
+• MERN CRUD App (React + Node + MongoDB)  
+• To-Do App (React + Local Storage)  
+
+📫 Connect:
+LinkedIn: https://www.linkedin.com/in/shubham-prajapati-846b5632b
+
+
+

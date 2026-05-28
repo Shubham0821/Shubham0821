@@ -5,6 +5,8 @@
 
 🧠 Tech Stack:
 - Frontend: HTML, CSS, Tailwind CSS, JavaScript, React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
 - Tools: Git, GitHub, VS Code
 
 🎯 Currently learning by building small to medium real-world web applications,
